@@ -1,0 +1,22 @@
+Anzeigeoption
+F1 – Kartenfarben ein/ausschalten (Default aus)
+F2 - Wechsel zwischen den angezeigten Farben 
+	Modus 1 = Knotenrang (Default an)	
+	Modus 2 = Knoten wo Spieler gesehen wurden
+F3 - Wege anzeigen ein/ausschalten (Default an)
+
+Agentenverhalten ändern
+F4 – Wege von anderen Agenten berücksichtigen ein/ausschalten (Default an)
+F5 - Verwendung des Knotenrangs, um die Spieler zu finden ein/ausschalten (Default an)
+
+WASD / Pfeiltasten - Bewegen
+
+
+
+F1 - show map colours
+F2 - toggle map mode
+F3 - draw paths
+F4 - toggle smarter paths
+F5 - toggle search pattern
+
+WASD / Arrow keys - Move
